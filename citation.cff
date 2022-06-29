@@ -1,8 +1,9 @@
-@software{Wormhole.cc,
-  author = {May, Harry},
-  month = {06},
-  title = {{Wormhole code for NS-3}},
-  url = {https://github.com/HLM2022/Wormhole-for-NS3},
-  version = {1.0},
-  year = {2022}
-}
+cff-version: 1.2.0
+message: "Citation for the wormhole software"
+authors:
+  - family-names: May
+    given-names: Harry
+    orcid: https://orcid.org/0000-0002-0571-1392
+title: "Wormhole source code for NS-3"
+version: 1.0.0
+date-released: 2022-06-29
